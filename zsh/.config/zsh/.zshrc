@@ -109,3 +109,8 @@ alias news='web_search duckduckgo \!n'
 alias map='web_search duckduckgo \!m'
 alias image='web_search duckduckgo \!i'
 alias ducky='web_search duckduckgo \!'
+
+
+
+
+[ -f "${ZDOTDIR}/functions.zsh" ] && source "${ZDOTDIR}/functions.zsh"
