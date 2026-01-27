@@ -1,5 +1,5 @@
 if [[ -o interactive ]]; then
-    echo "Running .zshenv in an interactive shell"
+   # echo "Running .zshenv in an interactive shell"
 fi
 
 
