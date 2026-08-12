@@ -11,7 +11,7 @@ alias dcrestart="docker compose restart"
 alias vpnup="wg-quick up ./rumble.conf"
 alias vpndown="wg-quick down ./rumble.conf"     
 alias ls="ls --color=auto"                            # use ls colorfully
-alias l="ls -ahl"                                      # l is ls
+alias l="ls -Gahl"                                      # l is ls
 alias nw="alacritty msg create-window"                # open new window in alacritty
 alias inv='nvim $(fzf --preview="bat --color always {}")'
 alias gs='git status'

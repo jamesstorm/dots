@@ -9,7 +9,7 @@
 #
 
 
-
+export EDITOR=nvim
 
 [ -f "${ZDOTDIR}/aliases.zsh" ] && source "${ZDOTDIR}/aliases.zsh"
 [ -f "${ZDOTDIR}/options.zsh" ] && source "${ZDOTDIR}/options.zsh"
